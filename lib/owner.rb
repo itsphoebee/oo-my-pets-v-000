@@ -31,7 +31,7 @@ attr_reader :species
     "I am a #{@species}."
   end
 
-  def self.pets    #initialize with pets attribute
+  def pets    #initialize with pets attribute
     @pets
   end
 
